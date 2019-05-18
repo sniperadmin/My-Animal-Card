@@ -1,0 +1,50 @@
+/* add your CSS here */
+
+html {
+	font-family: bernhard-gothic-urw, sans-serif;
+	font-style: normal;
+}
+
+#container {
+	border: 1px solid lightgrey;
+	box-shadow: 0 2px 10px 1px #aaaaaa;
+	margin: auto;
+	padding: 8px 32px 8px 8px;
+	width: 24.04%;
+}
+
+#container h1 {
+  	font-size: 18pt;
+	margin: 6% 4%;
+}
+
+#container img {
+	margin: 0 4%;
+	width: 100%;
+}
+
+.animal-info {
+	border: 1px solid lightgrey;
+	margin: 6% 4% 4%;
+	width: 100%;
+}
+
+.animal-info p {
+	display: block;
+  	padding: 0 20px;
+}
+
+.animal-info #interesting-fact {
+	font-style: italic;
+}
+
+#facts span {
+	font-weight: bold;
+}
+
+.animal-info ul li{
+    list-style-type: none;
+    margin: 0 -20px;
+	text-decoration: none;
+  	width: 99%;
+}
