@@ -10,7 +10,7 @@ html {
 	box-shadow: 0 2px 10px 1px #aaaaaa;
 	margin: auto;
 	padding: 8px 32px 8px 8px;
-	width: 24.04%;
+	width: 300px;
 }
 
 #container h1 {
@@ -20,7 +20,7 @@ html {
 
 #container img {
 	margin: 0 4%;
-	width: 100%;
+	width: 300px;
 }
 
 .animal-info {
